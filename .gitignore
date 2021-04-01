@@ -3,3 +3,7 @@ bin
 obj
 *.ilk
 *.pdb
+*.tlog
+*.las
+*.obj
+*.vcxproj.*
