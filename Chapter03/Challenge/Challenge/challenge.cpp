@@ -47,4 +47,6 @@ int main()
 	printf("Year published: %d\n", lc1.year_pub);
 	printf("Year acquired: %d\n", lc1.year_acq);
 	printf("Quantity: %d\n", lc1.quantity);
+
+	return 0;
 }
